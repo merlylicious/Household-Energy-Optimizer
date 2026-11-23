@@ -86,7 +86,7 @@ Efficiency statuses: **Excellent** (80–100), **Good** (60–below 80), **Avera
 
 ## Credits
 
-Developed by **Amir Syahmi**.
+Developed by **Amir Syahmi @ merlylicious**.
 
 ## License
 
