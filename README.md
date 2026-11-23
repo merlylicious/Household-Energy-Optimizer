@@ -86,7 +86,7 @@ Efficiency statuses: **Excellent** (80–100), **Good** (60–below 80), **Avera
 
 ## Credits
 
-Developed as a group academic assignment by Amir Syahmi Bin Shmsudin, Mohammad Hazim Shah Bin Hasmadi, Muhammad Danial Bin Amran, and Abu Hurairah Bin Ahmad Shaifool.
+Developed by **Amir Syahmi**.
 
 ## License
 
